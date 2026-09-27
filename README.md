@@ -1,6 +1,6 @@
 # LigtasAlert
 
-LigtasAlert is a Laravel 12 backend for sending and monitoring facility emergency alerts. It exposes a JSON API consumed by a Flutter rescuee app, plus a web admin dashboard.
+LigtasAlert is a Laravel 12 backend for sending and monitoring facility emergency alerts. It exposes a JSON API plus a web admin dashboard.
 
 ## Requirements
 
